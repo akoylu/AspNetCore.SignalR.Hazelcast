@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>akoylu</Authors>
+    <Version>1.0.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Description>Hazelcast backplane for SignalR</Description>
+    <Copyright>Copyright 2019</Copyright>
+    <PackageProjectUrl>https://github.com/akoylu/AspNetCore.SignalR.Hazelcast</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/akoylu/AspNetCore.SignalR.Hazelcast/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageTags>Hazelcast SignalR</PackageTags>
+    <PackageReleaseNotes>Initial commit</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
