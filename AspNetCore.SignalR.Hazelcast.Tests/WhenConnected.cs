@@ -53,7 +53,7 @@ namespace AspNetCore.SignalR.Hazelcast.Tests
             Task.Delay(5000);
         }
 
-        [Test]
+        // [Test]
         public void Then()
         {
 
